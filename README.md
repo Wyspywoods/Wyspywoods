@@ -1,1 +1,1 @@
-ComfyUI artist currently researching clothing swaps
+ComfyUI artist
